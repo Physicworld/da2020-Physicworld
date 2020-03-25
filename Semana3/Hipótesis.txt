@@ -1,0 +1,13 @@
+1) LLUVIAS: Observar si hay alguna correlación territorial entre las lluvias
+y seguir la lluvia a lo largo de los meses localmente y observar si esto tiene
+un efecto en el clima promedio del lugar.
+
+De esta manera predecir a donde se moverá la siguiente época de lluvias.
+
+2) SUELDOS: De la tabla tabulador, sumar los datos de cada columna y graficar en un
+pastel, el coste anual por área.
+
+De esta manera, ver que área tiene mas costo para el estado.
+
+3) Salario mínimo: Ver el aumento del salario a lo largo del tiempo.
+** Ver el poder adquisitivo tambien a lo largo del tiempo, para ver si es equivalente lo que se gana ahora.
